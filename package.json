@@ -1,0 +1,12 @@
+{
+  "name": "leaguestreamsdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd app && npm start"
+  },
+  "keywords": [],
+  "author": "Emily",
+  "license": "MIT"
+}
